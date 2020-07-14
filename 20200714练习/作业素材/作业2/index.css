@@ -1,0 +1,12 @@
+.characteristic .content .first{
+	color: aquamarine;
+	font-size: 60px;
+}
+
+.characteristic li h1{
+	color: red;
+	
+}
+.synopsis,.WordOfMouth .content{
+	color: green;
+}

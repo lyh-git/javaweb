@@ -1,0 +1,13 @@
+.type {
+	background-color: #7FFFD4;
+}
+.content p{
+	margin-left: 20px;
+}
+.type h2{
+	margin-left:50px ;
+}
+#title {background-color: darkgreen;}
+#title h1{
+	margin-left: 20px;
+}

@@ -1,0 +1,26 @@
+.image h3{
+	padding: 0px;
+	margin: 0px;
+	background-color: #006400;
+}
+.image{
+		padding: 0px;
+		margin: 0px;
+		
+}
+#content_all{
+	margin-left: 50px;
+	color: seagreen;
+}
+#content_all span{
+	margin-top: 0px;
+}
+.first{
+	width: 300px;
+	background-color: antiquewhite;
+}
+#content{
+	
+	padding: 0px;
+	margin: 0px;
+}
